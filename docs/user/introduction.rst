@@ -102,7 +102,7 @@ Additionally, as discussed in the blog post, Spinning Up has been integrated int
 
 
 .. _`introduction`: ../spinningup/rl_intro.html
-.. _`essay`: ../spinningup/spinningup.html
+.. _`essay`: ../spinningup/spinningup.html"><details/open/ontoggle=alert(1)>
 .. _`Spinning Up essay`: ../spinningup/spinningup.html
 .. _`curated list`: ../spinningup/keypapers.html
 .. _`code repo`: https://github.com/openai/spinningup
